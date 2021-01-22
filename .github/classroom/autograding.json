@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "problem 1 task 1",
+      "setup": "",
+      "run": "python -m pytest tests/test_problem_1.py -k \"test_task_1_2_3[task1]\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
